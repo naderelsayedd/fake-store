@@ -1,0 +1,28 @@
+* {
+    font-family  :'Times New Roman', Times, serif;
+    color:  #fff;
+}
+/* body {
+    background-color: #777 !important;
+} */
+
+.slider{
+    position: relative;
+}
+
+/* .header
+{
+    position: fixed;
+    z-index: 10000000;
+    width: 100%;
+    background-color:#99999977; 
+    color: #fff;
+} */
+.logo 
+{
+    color: #ffff !important;
+}
+.active
+{
+    color: tomato !important;
+}

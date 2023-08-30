@@ -1,0 +1,20 @@
+.nav-link {
+    font-size: 20px !important;
+    color: #fff !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header 
+{
+    background-color: #999;
+}
+
+.active 
+{
+    color: tomato !important;
+}
+
+.navbar-brand 
+{
+    color: #fff !important;
+}

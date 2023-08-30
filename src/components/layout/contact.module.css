@@ -1,0 +1,21 @@
+.dark{
+    color: #000 !important;
+}
+
+.h1
+{
+    color: #000;
+    margin: 40px 0;
+}
+
+.form 
+{
+    width: 80%;
+    margin: auto;
+    text-align: left;
+}
+
+textarea 
+{
+    height: 200px;
+}
