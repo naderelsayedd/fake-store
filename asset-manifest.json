@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fake-store/static/css/main.4aca66c7.css",
+    "main.js": "/fake-store/static/js/main.952cd09a.js",
+    "static/js/787.85ae7eb2.chunk.js": "/fake-store/static/js/787.85ae7eb2.chunk.js",
+    "static/media/bank-business-buyers-buying.jpg": "/fake-store/static/media/bank-business-buyers-buying.4c2b459f83e6d66b244c.jpg",
+    "static/media/business-buy-card-commercial-wallpaper-preview.jpg": "/fake-store/static/media/business-buy-card-commercial-wallpaper-preview.4a8928c259692be88a2e.jpg",
+    "static/media/ecommerce-cards-creditcards-credit.jpg": "/fake-store/static/media/ecommerce-cards-creditcards-credit.2c9a26b49f7f14efbfff.jpg",
+    "index.html": "/fake-store/index.html",
+    "main.4aca66c7.css.map": "/fake-store/static/css/main.4aca66c7.css.map",
+    "main.952cd09a.js.map": "/fake-store/static/js/main.952cd09a.js.map",
+    "787.85ae7eb2.chunk.js.map": "/fake-store/static/js/787.85ae7eb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aca66c7.css",
+    "static/js/main.952cd09a.js"
+  ]
+}
