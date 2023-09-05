@@ -2,7 +2,7 @@
     font-family  :'Times New Roman', Times, serif;
     color:  #fff;
 }
-h4{color : #000};
+h4{color : #000 !important};
 /* body {
     background-color: #777 !important;
 } */
